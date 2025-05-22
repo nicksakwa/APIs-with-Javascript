@@ -8,10 +8,10 @@ document.getElementById('DOMContentLoaded' ,()=>{
             headers:{
                 'Content-Type':'application/json'   
             },
-            body: JSON,stringify({
+            body: JSON.stringify({
                 title: 'foo',
                 body: 'bar',
-                userId: 1
+                userId: 1,
             })
         })
             .then(response =>{
