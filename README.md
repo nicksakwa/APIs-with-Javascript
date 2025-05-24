@@ -11,3 +11,4 @@ In this repository I dive into API's with Javascript
 * Get method
 * Post method
 * PUT method
+* Delete method
