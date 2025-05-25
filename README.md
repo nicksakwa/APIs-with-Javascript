@@ -12,3 +12,7 @@ In this repository I dive into API's with Javascript
 * Post method
 * PUT method
 * Delete method
+
+## For this repository, the prerequisites are:
+
+* JavaScript enabled browser
